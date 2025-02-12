@@ -14,7 +14,7 @@ class WeatherScreen extends StatefulWidget {
 }
 
 class _WeatherScreenState extends State<WeatherScreen> {
-  final String apiKey = 'a9f9362d5ed58fadb2c5044bf75b899b'; // Replace with your API key
+  final String apiKey = 'YOUR_API'; // Replace with your API key
   String city = 'Zagreb'; // Default city
   double? temperature;
   String? weatherCondition;
