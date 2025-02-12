@@ -13,3 +13,7 @@ Supports **searching for cities** and **pull-to-refresh** functionality.
 - **OpenWeather API** 
 - **Shared Preferences** (for saving last searched city)
 - **Weather Icons**  
+
+## 📸 Screenshot
+
+![Weather App](assets/screenshots/screenshot.png)
