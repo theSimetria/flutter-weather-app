@@ -16,4 +16,4 @@ Supports **searching for cities** and **pull-to-refresh** functionality.
 
 ## 📸 Screenshot
 
-![Weather App](assets/screenshots/screenshot.png)
+![Weather App](assets/screenshots/screenshot.jpg)
